@@ -80,7 +80,7 @@ Then provide the transcript file path or paste the content.
 {date}-{topic-slug}-{speaker}-{platform}-{type}.{ext}
 ```
 
-Example: `2026-06-04-AI基建存储MLCC市场策略-蒋宇飞-私域直播-分析总结.md`
+Example: `2026-06-04-AI基建存储MLCC市场策略-某主讲人-私域直播-分析总结.md`
 
 ## License
 
