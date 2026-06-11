@@ -111,7 +111,7 @@ Generate PDF from the verified, scanned HTML. Use playwright headless chromium.
 
 Extract from transcript context:
 - **date**: ISO format (YYYY-MM-DD)
-- **speaker**: Name + 身份 (e.g., "蒋宇飞，11年半导体产业经验")
+- **speaker**: Name + 身份 (e.g., "某主讲人，11年半导体产业经验")
 - **platform**: 私域直播 / X Space / 闭门课 / 访谈
 - **topics**: Array of topic tags in Chinese
 - **duration**: Approximate length
@@ -208,10 +208,10 @@ If playwright not available: `pip3 install playwright && python3 -m playwright i
 {date}-{topic-slug}-{speaker}-{platform}-{type}.{ext}
 
 Examples:
-2026-06-04-AI基建存储MLCC市场策略-蒋宇飞-私域直播-原文稿.md
-2026-06-04-AI基建存储MLCC市场策略-蒋宇飞-私域直播-分析总结.md
-2026-06-04-AI基建存储MLCC市场策略-蒋宇飞-私域直播-分享.html
-2026-06-04-AI基建存储MLCC市场策略-蒋宇飞-私域直播-分享.pdf
+2026-06-04-AI基建存储MLCC市场策略-某主讲人-私域直播-原文稿.md
+2026-06-04-AI基建存储MLCC市场策略-某主讲人-私域直播-分析总结.md
+2026-06-04-AI基建存储MLCC市场策略-某主讲人-私域直播-分享.html
+2026-06-04-AI基建存储MLCC市场策略-某主讲人-私域直播-分享.pdf
 ```
 
 **Topic slug rules:**
